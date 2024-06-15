@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Template_MathedPrueb-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\Template_MathedPruebEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Asteroide.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\AsteroidePequenio.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Meteorito.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\NavesNPC.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Obstaculo.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Template_MathedPrueb.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Template_MathedPruebGameMode.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Template_MathedPruebPawn.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Template_MathedPruebProjectile.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Asteroide.gen.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\AsteroidePequenio.gen.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Meteorito.gen.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\NavesNPC.gen.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Obstaculo.gen.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Template_MathedPrueb.init.gen.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Template_MathedPruebGameMode.gen.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Template_MathedPruebPawn.gen.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Template_MathedPruebProjectile.gen.cpp.obj"
+"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Default.rc2.res"
+/OUT:"C:\SIS457\Template_MathedPrueb - DE PRUEBA (COPIA)\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\UE4Editor-Template_MathedPrueb-0001.lib"

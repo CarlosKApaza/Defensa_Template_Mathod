@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Template_MathedPrueb",
+			"Path": "C:\\SIS457\\Template_MathedPrueb - DE PRUEBA (COPIA)\\Source\\Template_MathedPrueb.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Template_MathedPruebEditor",
+			"Path": "C:\\SIS457\\Template_MathedPrueb - DE PRUEBA (COPIA)\\Source\\Template_MathedPruebEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

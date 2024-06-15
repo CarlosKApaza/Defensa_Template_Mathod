@@ -1,0 +1,7 @@
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Definitions.Template_MathedPrueb.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Source\Template_MathedPrueb/Obstaculo.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Source\Template_MathedPrueb\Template_MathedPruebProjectile.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Inc\Template_MathedPrueb\Template_MathedPruebProjectile.generated.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Inc\Template_MathedPrueb\Obstaculo.generated.h

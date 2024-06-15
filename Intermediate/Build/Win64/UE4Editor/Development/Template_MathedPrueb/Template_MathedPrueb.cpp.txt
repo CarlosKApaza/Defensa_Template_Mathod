@@ -1,0 +1,2 @@
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Definitions.Template_MathedPrueb.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Source\Template_MathedPrueb\Template_MathedPrueb.h

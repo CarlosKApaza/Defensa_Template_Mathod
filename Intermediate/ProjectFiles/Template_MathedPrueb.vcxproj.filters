@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Template_MathedPrueb.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CFBAB0CC-24DF-4966-93B9-10892AA8CFFB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Template_MathedPrueb.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Template_MathedPruebEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AEF4BB6F-2007-452E-9F88-C9948CF68C6D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Template_MathedPrueb">
+      <UniqueIdentifier>{E4496BC5-2A64-486D-A6F3-C57FD6CC2724}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Template_MathedPrueb\Asteroide.cpp">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Template_MathedPrueb\Asteroide.h">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Template_MathedPrueb\AsteroidePequenio.cpp">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Template_MathedPrueb\AsteroidePequenio.h">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Template_MathedPrueb\Meteorito.cpp">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Template_MathedPrueb\Meteorito.h">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Template_MathedPrueb\NavesNPC.cpp">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Template_MathedPrueb\NavesNPC.h">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Template_MathedPrueb\Obstaculo.cpp">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Template_MathedPrueb\Obstaculo.h">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Template_MathedPrueb\Template_MathedPrueb.Build.cs">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Template_MathedPrueb\Template_MathedPrueb.cpp">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Template_MathedPrueb\Template_MathedPrueb.h">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Template_MathedPrueb\Template_MathedPruebGameMode.cpp">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Template_MathedPrueb\Template_MathedPruebGameMode.h">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Template_MathedPrueb\Template_MathedPruebPawn.cpp">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Template_MathedPrueb\Template_MathedPruebPawn.h">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Template_MathedPrueb\Template_MathedPruebProjectile.cpp">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Template_MathedPrueb\Template_MathedPruebProjectile.h">
+      <Filter>Source\Template_MathedPrueb</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

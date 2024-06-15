@@ -1,0 +1,34 @@
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Development\Template_MathedPrueb\Definitions.Template_MathedPrueb.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Source\Template_MathedPrueb\Template_MathedPruebGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Inc\Template_MathedPrueb\Template_MathedPruebGameMode.generated.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Source\Template_MathedPrueb\Template_MathedPruebPawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Inc\Template_MathedPrueb\Template_MathedPruebPawn.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Source\Template_MathedPrueb\Obstaculo.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Source\Template_MathedPrueb\Template_MathedPruebProjectile.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Inc\Template_MathedPrueb\Template_MathedPruebProjectile.generated.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Inc\Template_MathedPrueb\Obstaculo.generated.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Source\Template_MathedPrueb\Asteroide.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Inc\Template_MathedPrueb\Asteroide.generated.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Source\Template_MathedPrueb\NavesNPC.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Inc\Template_MathedPrueb\NavesNPC.generated.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Source\Template_MathedPrueb\Meteorito.h
+C:\SIS457\Template_MathedPrueb - Defensa ExaFinal\Intermediate\Build\Win64\UE4Editor\Inc\Template_MathedPrueb\Meteorito.generated.h
